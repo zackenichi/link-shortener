@@ -1,0 +1,5 @@
+{
+  "mongodbUrl": "your mongoDB URL",
+  "port": 3005,
+  "baseUrl": "http://localhost:3005"
+}
